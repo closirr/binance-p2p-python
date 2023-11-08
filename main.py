@@ -9,7 +9,7 @@ from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler
 # from selenium.webdriver.common.keys import Keys
 # from selenium.webdriver.firefox.options import Options
 
-TOKEN = '1851851427:AAG31OKFZkRaQeL5pdeExUSvQ3yCzZE8pG4'  
+TOKEN = ''  
 LIMIT = 28.29
 ticker_indexes = {
     'USDT': 1,
